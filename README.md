@@ -47,9 +47,9 @@ Sensor Data → Feature Extraction → AI Prediction Model → AI Agent → Clas
 |------|--------|
 | Concept Ideation | Completed |
 | CAD Modelling | Completed |
-| Prototype Design | In Progress |
-| AI Prediction Model | In Progress |
-| AI Agent Integration | Planned |
+| Prototype Design | Completed |
+| AI Prediction Model | Completed |
+| AI Agent Integration | In Progress |
 | Industrial Validation | Future Phase |
 
 ---
