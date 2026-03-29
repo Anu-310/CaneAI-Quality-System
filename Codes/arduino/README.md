@@ -3,7 +3,7 @@
 The system receives real-time sensor data from an Arduino-based sensing module.
 
 Sensors used:
-- Infrared optical sensor (IR + photodiode)
+- TCRT5000 Module (IR + photodiode)
 - Capacitive sensor (dielectric measurement)
 
 The Arduino processes signals and transmits values via serial communication to the AI system.
