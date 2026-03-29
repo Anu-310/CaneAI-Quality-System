@@ -1,6 +1,6 @@
 # Hardware Setup
 
-This section contains images and representations of the hardware components used in the system.
+This section contains images of the actual hardware connections and setup used in the system.
 
 The setup includes:
 
@@ -10,4 +10,4 @@ The setup includes:
 - Arduino-based data acquisition unit
 - LCD module for local display
 
-The hardware is designed to capture sensor signals from sugarcane in a non-destructive manner and transmit processed values to the AI system for further analysis.
+The hardware is arranged to capture sensor signals from sugarcane in a non-destructive manner and transmit the processed values to the AI system for further analysis.
